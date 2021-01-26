@@ -15,5 +15,5 @@ function blah() {
 
 console.log(blah)
 
-const happiness = "bunnies"
+cost happiness = "bunnies"
 console.log(happiness)
