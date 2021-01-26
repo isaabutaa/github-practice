@@ -2,11 +2,15 @@ console.log("hello world")
 
 console.log("world hello1234")
 
-console.log(ajajdddddddddda)
+function blah() {
+    console.log(ajajdddddddddda)
 
-const num = 1
-num = 2
+    const num = 1
+    num = 2
 
-console.log(num)
+    console.log(num)
 
-const num = 3333
+    const num = 3333
+}
+
+console.log(blah)
