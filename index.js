@@ -14,3 +14,6 @@ function blah() {
 }
 
 console.log(blah)
+
+const happiness = "bunnies"
+console.log(happiness)
